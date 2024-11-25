@@ -9,7 +9,7 @@ Keybinds:
 
 Use mouse and click on any shape to remove it.
 
-Demo video: (Update later)
+Demo video: https://youtu.be/VbuwROMzSZM
 
 # Credit
 Họ tên: Hoàng Lê Minh
